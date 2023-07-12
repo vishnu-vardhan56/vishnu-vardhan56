@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg">
+<img align="right" alt="Coding" width="400" src="https://poetsandquants.com/wp-content/uploads/sites/5/2022/09/engineering-article-image-768x500.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu-vardhan56&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu-vardhan56" /> </p>
 
 - 🔭 I’m currently working on **Web Development Projects.**
