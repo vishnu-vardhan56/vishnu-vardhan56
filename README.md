@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -11,13 +9,16 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishnu-vardhan56?tab=repositories](https://github.com/vishnu-vardhan56?tab=repositories)
 
-- 💬 Ask me about **any Computer Science domain.**
-
 - 📫 How to reach me **https://www.linkedin.com/in/vishnu-vardhan-tunuguntla-205n6/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishnu-vardhan-tunuguntla-205n6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu-vardhan-tunuguntla-205n6" height="30" width="40" /></a>
+<a href="https://instagram.com/vishnu_roy_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishnu_roy_7" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/srgec_2005n6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srgec_2005n6" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vishnuthunugunt1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishnuthunugunt1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vishnu_vardhan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishnu_vardhan01" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vishnuvardhant56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishnuvardhant56" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
