@@ -1,4 +1,4 @@
-[![MasterHead](https://poetsandquants.com/wp-content/uploads/sites/5/2022/09/engineering-article-image-768x500.png)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
