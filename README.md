@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Development Projects.**
 
-- 🌱 I’m currently learning **React,Node.js,Angular.**
+- 🌱 I’m currently learning **React,Node.js,Angular,APIs.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishnu-vardhan56?tab=repositories](https://github.com/vishnu-vardhan56?tab=repositories)
 
