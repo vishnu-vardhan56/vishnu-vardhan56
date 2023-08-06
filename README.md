@@ -7,17 +7,16 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <br/>
-
 <div align="center">
  🎓 Pursuing my IV B.Tech with computer science and engineering as major.
  
  🔭 I’m currently working on **a MovieMix app**
- 
- 🌱 I’m currently learning **I'm currently learning Full Stack Web application development and DSA**
 
- [//]: # 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 🌱 I’m currently learning **I'm currently learning Full Stack Web Application development and DSA**
 
- [//]: # ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ <!--[//]: # 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+ [//]: # ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
  
  </div>
  
@@ -58,10 +57,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=vishnu-vardhan56&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-vishnu-vardhan56.vercel.app/api?username=vishnu-vardhan56&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=vishnu-vardhan56&count_private=false&theme=react&border_radius=10" alt="streak stats"/>
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=vishnu-vardhan56&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-vishnu-vardhan56.vercel.app/api/top-langs/?username=vishnu-vardhan56&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-vardhan56&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
