@@ -9,11 +9,11 @@
 
 <br/>
 <div align="center">
- 🎓 Pursuing my IV B.Tech with computer science and engineering as major.
+ 🎓 Pursuing my IV B.Tech with Computer Science and Engineering as major.
  
  🔭 I’m currently working on **a MovieMix app**
 
- 🌱 I’m currently learning **I'm currently learning Full Stack Web Application development and DSA**
+ 🌱 I'm currently learning **Full Stack Web Application development and DSA**
 
  <!--[//]: # 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
