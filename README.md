@@ -5,15 +5,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Vishnu!;" />
 </h1>
 
-<h3 align="center">I am a passionate web developer and ML enthusiast from India.</h3>
+<h3 align="center">I am a passionate Mobile & Web developer and ML enthusiast from India.</h3>
 
 <br/>
 <div align="center">
- 🎓 Pursuing my IV B.Tech with Computer Science and Engineering as major.
- 
- 🔭 I’m currently working on **a MovieMix app**
+ 🎓 Pursued my B.Tech with Computer Science and Engineering as major.
 
- 🌱 I'm currently learning **Full Stack Web Application development and DSA**
+ 🌱 I'm currently learning **Full Stack Mobile Application development and DSA**
 
  <!--[//]: # 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
