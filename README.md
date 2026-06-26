@@ -29,7 +29,7 @@
 
 <hr/>
 
-## 🚀 Shipped — Production Apps
+##  Shipped — Production Apps
 
 | App | Domain | Stack | Platform |
 |-----|--------|-------|----------|
@@ -45,7 +45,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,kotlin,swift,python" /><br><br>
   <img src="https://skillicons.dev/icons?i=aws,firebase,graphql,nodejs,docker,github" /><br><br>
-  <img src="https://skillicons.dev/icons?i=androidstudio,xcode,git,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,apple,git,vscode,postman,figma" />
 </div>
 
 <br/>
@@ -64,23 +64,9 @@
 
 <hr/>
 
-## 📊 Impact by Numbers
-
-<div align="center">
-
-| Metric | Result |
-|--------|--------|
-| 📉 Crash rate reduction | **40%** via Crashlytics & Datadog |
-| 🐛 Production issues cut | **30%** through proactive release management |
-| 📦 Records handled smoothly | **10,000+** with responsive UX |
-| 👥 User roles in one platform | **5 distinct roles** — tailored dashboards per role |
-| 🌍 Transportation modes covered | **3 modes** across GCC, India & international markets |
-
-</div>
-
 <hr/>
 
-## 🤖 Currently Exploring
+##  Currently Exploring
 
 ```
 React Native  +  On-device AI
