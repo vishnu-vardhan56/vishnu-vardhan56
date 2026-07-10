@@ -7,16 +7,6 @@
 
 <h3 align="center">Software Engineer II · Building production-grade mobile apps for Android & iOS · Exploring AI integrations in React Native</h3>
 
-<br/>
-
-<div align="center">
-  📱 Shipped live apps on <strong>App Store</strong> & <strong>Google Play</strong> — used by thousands of real users<br/>
-  🏗️ Built across <strong>healthcare · logistics · construction</strong> industries<br/>
-  🤖 Currently exploring <strong>on-device AI & Hugging Face model integrations</strong> in React Native<br/>
-  🎓 <strong>GATE CS Qualified</strong> · B.Tech CSE · 9.0 CGPA
-</div>
-
-<br/>
 
 <div align="center"> 
   <a href="mailto:vishnuvardhant56@gmail.com">
@@ -29,15 +19,6 @@
 
 <hr/>
 
-##  Shipped — Production Apps
-
-| App | Domain | Stack | Platform |
-|-----|--------|-------|----------|
-| **Amura** | Healthcare · Patient & Doctor Communication | React Native CLI · Redux-Saga · Firebase · Datadog | [iOS](https://apps.apple.com/in/app/amura/id6757427633) · [Android](https://play.google.com/store/apps/details?id=com.amurahealth.pms) |
-| **WorldZone** | Logistics · Freight & Shipment Tracking (UAE/GCC) | React Native Expo · GraphQL · AWS AppSync · EAS | [iOS](https://apps.apple.com/in/app/worldzone/id6751486055) · [Android](https://play.google.com/store/apps/details?id=com.worldzone.freight) |
-| **WeHouse** | Construction · Multi-role Project Operations | React Native CLI · Apollo Client · AWS SNS · FCM | iOS · Android |
-
-<hr/>
 
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
